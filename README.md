@@ -1,1 +1,1 @@
-Proyecto realizado con Vue.js, Tailwind CSS, JSON Server y Vite
+Proyecto realizado con Vue.js, Vue Router, Tailwind CSS, JSON Server y Vite
